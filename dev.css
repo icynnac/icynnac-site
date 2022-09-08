@@ -3,6 +3,9 @@ body {
 }
 
 button {
+    margin-left: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
@@ -10,4 +13,11 @@ button {
 .center {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    color: white;
+}
+
+.icytroll h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 100px;
 }
